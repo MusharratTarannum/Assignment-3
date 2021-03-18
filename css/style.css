@@ -1,0 +1,99 @@
+
+h5{
+	color: green;
+}
+	.head5{
+		background-color: yellow;
+}
+.red{
+	border-width: 5px;
+	border-style: dashed;
+	border-color: blue; 
+}
+#heading1{
+	font-size: 60px;
+
+}
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: rgba(00,00,00,.9);
+}
+
+h1{
+	color: red;
+}
+
+.yellow{
+	color: yellow;
+}
+
+.box{
+	width: 100px;
+	height:100px;
+}
+
+.box1{
+	background-color: red;
+	margin-top: 100px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+}
+
+.box2{
+	background-color: green;
+	margin: 100px 50px 30px 10px
+}
+
+.box3{
+	background-color: yellow;
+	padding: 100px;
+	border: 5px solid red;
+	margin: 50px;
+}
+
+.header{
+	min-height: 80px;
+	background-color: red; 
+}
+
+.wrapper{
+	overflow: hidden;
+}
+
+.blog{
+	float: left;
+	width: 60%;
+	min-height: 150px;
+	background-color: blue;
+}
+
+.contact{
+	float: right;
+	width: 40%;
+	min-height: 150px;
+	background-color: yellow;
+}
+
+.single{
+	float: left;
+	width: 33.33%;
+	min-height: 150px;
+}
+
+.box4{
+	background-color: teal;
+}
+
+.box5{
+	background-color: grey;
+}
+.box6{
+	background-color: lime;
+}
+
+.footer{
+	min-height: 80px;
+	background-color: purple; 
+}
